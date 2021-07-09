@@ -34,6 +34,12 @@ We can see that people who've been within the organization for less than 5 years
 ### 5) Business Travel
 It's shown that people who travel often for work purposes are found to leave the organization more. The org probably asks their employees to travel a lot often and this contributes to a lot of health issues. And if the employee has a family, it may not let him/her spend enough time with his family and hence contributes to slight imbalance in their employees Work-Life balance. Hence, this feature contributes to attrition. It's important for the company to care and value their employees and do the best they can to make sure their employees don't feel impacted in anyway.
 
+### 6) Marital Status
+We can see that the attrition rate of unmarried people is lower, while for married people, the attrition rate is really high. This could be cause of different commitments to their relationship or changes in events of their life. 
+
+### 7) Years in Current Role
+From the graph, we can say that people with less years of experience in their current role have a higher attrition rate and then it drastically reduces. We can later see that there's a sudden increase in attrition at around 6-7.5 years. This could be due to factors like, less incentives, recognition, pay, or no growth within the organization. Orgs need to make an effort to value the work of their employees if they want to reduce the RoA.
+
 ## Four features contributing to Attrition  
 * Overtime   
 * Marital status  
