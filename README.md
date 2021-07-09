@@ -1,3 +1,4 @@
+
 # Employee Attrition Data Analysis  
 **OBJECTIVE-** Predicts the possible reasons of attrition in the given dataset of a company.  
 
@@ -16,15 +17,22 @@
 * Years in current role  
   <img height="350" src="assets/currentRole.png">  
 
-## Insights on all features  
-* attrition	
-* age	
-* gender	
-* monthly income  	
-* education level  
-* overtime	
-* joblevel	
-* jobsatisfaction  
+## Insights on all features
+  
+### 1) Age
+Attrition seems to be more prevalent in the early career stages, most notably between the ages of 20 and 30. Whilst there is records of attrition at almost every age grouping, it would be beneficial to retain these younger employees and develop them within the business.
+
+### 2) Monthly Income
+While it isn't surprising that the people less paid are more likely to leave the organization, feature extraction in this area helped us understand that there are a few people despite their high pay, the attrition was higher in those roles.
+
+### 3) Overtime
+Employees that worked overtime had a much higher attrition rate compared to their colleagues that didn't. Making them work longer hours and making them arrive early/leave late all contribute to this attrition.  
+
+### 4) Years at Company 
+We can see that people who've been within the organization for less than 5 years have a really high attrition rate. There could be multiple factors that could contribute to this, but it's valuable for the company to try and retain these new talent as they actually bring a lot of value into the company. 
+
+### 5) Business Travel
+It's shown that people who travel often for work purposes are found to leave the organization more. The org probably asks their employees to travel a lot often and this contributes to a lot of health issues. And if the employee has a family, it may not let him/her spend enough time with his family and hence contributes to slight imbalance in their employees Work-Life balance. Hence, this feature contributes to attrition. It's important for the company to care and value their employees and do the best they can to make sure their employees don't feel impacted in anyway.
 
 ## Four features contributing to Attrition  
 * Overtime   
