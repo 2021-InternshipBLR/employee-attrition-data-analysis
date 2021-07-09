@@ -1,14 +1,20 @@
 # Employee Attrition Data Analysis  
 **OBJECTIVE-** Predicts the possible reasons of attrition in the given dataset of a company.  
 
+## Feature Importance       
+<img src="assets/featureImportance.png">  
+
 ## Top five features  
-`FeatureImportance` 
-<img src="assets/featureImportance.png">
 * Overtime   
+  <img height="350" src="assets/overtime.png">  
 * Marital status  
+  <img height="350" src="assets/single.png">  
 * Job Role  
+  <img height="350" src="assets/sales.png">  
 * Years with the current manager  
+  <img height="350" src="assets/currentManager.png">  
 * Years in current role  
+  <img height="350" src="assets/currentRole.png">  
 
 ## Insights on all features  
 * attrition	
